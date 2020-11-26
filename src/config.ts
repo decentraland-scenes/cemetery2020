@@ -10,13 +10,13 @@ export function setInPreview(val: boolean) {
 export let TESTQUESTSTATE: HalloweenState = {
   data: {
     // day 1
-    allHouses: false,
-    phone: false,
-    pumpkinDone: false,
-    w1Found: false,
+    allHouses: true,
+    phone: true,
+    pumpkinDone: true,
+    w1Found: true,
 
     // day 2
-    NPCIntroDay2: false,
+    NPCIntroDay2: true,
     ghostsDone: false,
     w2Found: false,
 
