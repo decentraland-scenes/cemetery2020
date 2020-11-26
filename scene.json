@@ -1,0 +1,140 @@
+{
+  "display": {
+    "title": "Cemetery",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Decentraland Foundation",
+    "email": ""
+  },
+  "owner": "",
+  "scene": {
+    "parcels": [
+      "-8,-16",
+      "-8,-15",
+      "-8,-14",
+      "-8,-13",
+      "-8,-12",
+      "-7,-16",
+      "-7,-15",
+      "-7,-14",
+      "-7,-13",
+      "-7,-12",
+      "-6,-16",
+      "-6,-15",
+      "-6,-14",
+      "-6,-13",
+      "-6,-12",
+      "-5,-16",
+      "-5,-15",
+      "-5,-14",
+      "-5,-13",
+      "-5,-12",
+      "-4,-16",
+      "-4,-15",
+      "-4,-14",
+      "-4,-13",
+      "-4,-12",
+      "-3,-16",
+      "-3,-15",
+      "-3,-14",
+      "-3,-13",
+      "-3,-12",
+      "-2,-16",
+      "-2,-15",
+      "-2,-14",
+      "-2,-13",
+      "-2,-12",
+      "-1,-16",
+      "-1,-15",
+      "-1,-14",
+      "-1,-13",
+      "-1,-12"
+    ],
+    "base": "-8,-16"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": []
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "spawnPoints": [
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 108,
+        "y": 0,
+        "z": 2
+      },
+      "cameraTarget": {
+        "x": 50,
+        "y": 1,
+        "z": 40
+      }
+    },
+    {
+      "name": "spawn2",
+      "default": true,
+      "position": {
+        "x": 108,
+        "y": 0,
+        "z": 76
+      },
+      "cameraTarget": {
+        "x": 50,
+        "y": 1,
+        "z": 40
+      }
+    },
+    {
+      "name": "spawn3",
+      "default": true,
+      "position": {
+        "x": 19,
+        "y": 0,
+        "z": 76
+      },
+      "cameraTarget": {
+        "x": 50,
+        "y": 1,
+        "z": 40
+      }
+    },
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 19,
+        "y": 0,
+        "z": 4
+      },
+      "cameraTarget": {
+        "x": 50,
+        "y": 1,
+        "z": 40
+      }
+    },
+    {
+      "name": "spawn1",
+      "default": true,
+      "position": {
+        "x": 64,
+        "y": 0,
+        "z": 76
+      },
+      "cameraTarget": {
+        "x": 50,
+        "y": 1,
+        "z": 40
+      }
+    }
+  ]
+}
